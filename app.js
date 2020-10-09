@@ -107,5 +107,5 @@ var Avenger = /** @class */ (function () {
     }
     return Avenger;
 }());
-var antman = new Avenger("Antman", "Equipo Cap", "Scott");
+var antman = new Avenger("Antman", "Equipo Cap", "Thor");
 console.log(antman);
